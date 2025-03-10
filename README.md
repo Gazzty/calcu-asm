@@ -1,14 +1,14 @@
-#Math Quiz Game in Assembly
+# Math Quiz Game in Assembly
 
 This is a simple math quiz game written in Assembly language. The game challenges you to solve mathematical equations within a limited number of lives. It is designed to run in a DOS environment and requires DosBox or a similar DOS emulator to work on modern systems.
 
-##Features
--**Math Equations**: Solve randomly generated math problems.
--**Limited Lives**: You start with 3 lives. Lose a life for every incorrect answer.
--**Simple Interface**: Clean and straightforward text-based interface.
--**DOS Compatibility**: Designed to run in a DOS environment.
+## Features
+- **Math Equations**: Solve randomly generated math problems.
+- **Limited Lives**: You start with 3 lives. Lose a life for every incorrect answer.
+- **Simple Interface**: Clean and straightforward text-based interface.
+- **DOS Compatibility**: Designed to run in a DOS environment.
 
-##Requirements
+## Requirements
 To run this program, you need:
 - **DosBox**: A DOS emulator for modern operating systems. You can download it from [DosBox's official website](https://www.dosbox.com/).
 - **Assembler**: The program is written in Assembly language. If you want to modify or compile it, you'll need an assembler like NASM or MASM.
