@@ -21,8 +21,8 @@ To run this program, you need:
    - Mount the directory where the program is located. For example:
      ```
      mount c: /path/to/your/program
-     c:
      ```
+4. **Run the file CALCULA.BAT**: This file will execute the commands to compile, load the imports and run the game (you can access the file if you want to know which commands are being executed).
 5. **Play the Game**: Follow the on-screen instructions to play the game.
 
 ## How to Play
